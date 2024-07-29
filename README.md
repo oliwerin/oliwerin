@@ -10,8 +10,7 @@ First, I pursued a more academic path and graduated from Adam Mickiewicz Univers
 
 My first significant work experience was at Wunderman Thompson Technology (formerly Cognifide, now part of VML), where I built web applications on top of Adobe Experience Manager for corporate clients such as Ford, HSBC, Unilever, and Colgate-Palmolive. During this time, I specialized in frontend development, solidifying my foundation in JS/CSS/HTML, learning frameworks from AngularJS to React, and focusing on web accessibility.
 
-Later, I decided to test myself in a startup environment and joined Contractbook. This is where I became a more well-rounded developer and began working on the backend as well, which led me to learn Elixir.
-
+Later, I decided to test myself in a startup environment and joined Contractbook. This is where I became a more well-rounded developer and began working on the backend as well, which led me to learn Elixir. Currently, I spend a similar amount of time working on both the frontend app, which is built with TypeScript, React, and Redux, and the Elixir API.
 
 ## Technical Skills 🔩
 
