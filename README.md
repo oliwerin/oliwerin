@@ -25,4 +25,4 @@ Due to pursuing other activities and hobbies after hours, I don't have any bigge
 ## Publications 📜
 
 - [My blog](https://oliwer.me/blog/)
-- [My article published on the blog of the company I previously worked for](https://wttech.blog/blog/2019/understanding-audio-and-video-accessibility-guidelines/)
+- [Understanding audio and video accessibility guidelines](https://wttech.blog/blog/2019/understanding-audio-and-video-accessibility-guidelines/)
