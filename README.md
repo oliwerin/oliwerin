@@ -14,13 +14,14 @@ Later, I decided to test myself in a startup environment and joined Contractbook
 
 ## Technical Skills 🔩
 
-- **Frontend:** TypeScript, React, Redux, CSS, HTML, Web Accessibility, jQuery
+- **Frontend:** TypeScript, JavaScript, React, Redux, CSS, HTML, jQuery, SCSS, TailwindCSS, Web Accessibility
 - **Backend:** Elixir, Phoenix, PostgreSQL
 - **Tools & Platforms:** command line, iTerm2, Oh-My-Zsh, VS Code, Zed, TablePlus, SourceTree, GitHub, OrbStack
 
 ## Projects 🏗️
 
-Due to pursuing other activities and hobbies after hours, I don't have any bigger projects in my personal repos. However, I'm currently working on something, so consider this a work in progress!
+Due to pursuing other activities and hobbies after hours, I currently don't have any bigger projects in my personal repos. However, you can check out the repository for my website and blog:
+- [oliwer-me](https://github.com/oliwerin/oliwer-me)
 
 ## Publications 📜
 
